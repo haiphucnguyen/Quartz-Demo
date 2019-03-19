@@ -1,0 +1,1 @@
+The example of running the scheduling micro service with Spring boot, quartz and H2 database. All explains comes from this post http://hainguyen.me/post/spring-boot-quartz-how-to/
